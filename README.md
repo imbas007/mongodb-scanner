@@ -60,6 +60,11 @@ config  0.000GB
 local   0.000GB
 test    0.000GB
 ```
+## example command connect to and interact with MongoDB instances
+
+```bash
+mongosh --host <ip> --port:27017
+```
 
 ## Security Considerations
 
