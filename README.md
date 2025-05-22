@@ -65,6 +65,7 @@ test    0.000GB
 ```bash
 mongosh --host <ip> --port:27017
 ```
+![Screenshot of MongoSweep](git.png)
 
 ## Security Considerations
 
